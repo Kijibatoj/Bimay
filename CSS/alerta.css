@@ -1,0 +1,31 @@
+/* alert */
+.Confirm{
+    background-color: rgba(252, 30, 30, 0.397);
+    padding: 15px 16px;
+    width: 350px;
+    margin-left: 9.4cm;
+    margin-top: 0.5cm;
+   
+  }
+  
+  .textaco{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    font-family: 'montserrat';
+    text-align: center;
+  }
+  
+  .negate{
+    background-color: rgba(93, 252, 30, 0.397);
+    padding: 12px 12px;
+    width: 250px;
+    height: 80px;
+   
+  }
+  
+  .textaco{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    font-family: 'montserrat';
+    text-align: center;
+  }
